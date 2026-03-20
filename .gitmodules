@@ -1,0 +1,3 @@
+[submodule "TwinMarket"]
+	path = TwinMarket
+	url = https://github.com/FreedomIntelligence/TwinMarket.git
