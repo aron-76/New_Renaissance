@@ -1,3 +1,15 @@
 [submodule "TwinMarket"]
-	path = TwinMarket
+	path = refs/TwinMarket
 	url = https://github.com/FreedomIntelligence/TwinMarket.git
+[submodule "MiroFish"]
+	path = refs/MiroFish
+	url = https://github.com/666ghj/MiroFish.git
+[submodule "vnpy"]
+	path = refs/vnpy
+	url = https://github.com/vnpy/vnpy.git
+[submodule "backtrader"]
+	path = refs/backtrader
+	url = https://github.com/mementum/backtrader.git
+[submodule "QuantaAlpha"]
+	path = refs/QuantaAlpha
+	url = https://github.com/QuantaAlpha/QuantaAlpha.git
